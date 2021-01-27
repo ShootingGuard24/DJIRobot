@@ -60,4 +60,10 @@
     
 }
 
+- (NSString *)addTitleStr:(NSString *)string {
+    
+    return @"哈哈哈哈";
+    
+}
+
 @end
